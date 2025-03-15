@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá, eu sou a Soraia 👋  
+💻 Analista de Testes Manuais | Explorando Automação de Testes  
+🔍 Foco em testes de software e garantia de qualidade  
+📌 Apaixonada por tecnologia, metodologias ágeis e aprendizado contínuo  
 
-<!--
-**SoraiaAlmeida/SoraiaAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tecnologias e Ferramentas  
+- 🔹 Testes Manuais | Testes Exploratórios  
+- 🔹 Postman | Insomnia | SQL | Jira
+- 🔹 Aprendendo sobre Automação de Testes (Cypress)  
 
-Here are some ideas to get you started:
+### 📌 Projetos Destacados  
+🔹 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Conecte-se comigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SoraiaAlmeida-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/soraiaCalmeida)
+
+![Soraia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoraiaAlmeida&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoraiaAlmeida&layout=compact&theme=dracula)
