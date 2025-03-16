@@ -9,7 +9,7 @@
 - 🔹 Aprendendo sobre Automação de Testes (Cypress)  
 
 ### 📌 Projetos Destacados  
-🔹 
+🔹 Em construção
  
 
 ### 📫 Conecte-se comigo  
