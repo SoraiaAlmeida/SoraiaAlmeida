@@ -8,8 +8,8 @@
 - 🔹 Postman | Insomnia | SQL | Jira
 - 🔹 Aprendendo sobre Automação de Testes (Cypress)  
 
-### 📌 Projetos Destacados  
-# 🚧 Em Construção
+### 📌 Projetos Destacados
+ 🔹🚧 Em Construção
  
 
 ### 📫 Conecte-se comigo  
